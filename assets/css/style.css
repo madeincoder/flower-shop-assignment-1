@@ -52,6 +52,7 @@ body{
     max-width: 1440px;
     margin: 0 auto;
 }
+
 /* header section */
 .header-banner-section{
     background: rgba(229, 84, 115, 0.10);
@@ -207,6 +208,7 @@ body{
     font-size: 18px;
     color: rgba(19, 1, 1, 0.6);
 }
+
 /* hot deal section */
 .hot-deal-section{
     background: rgba(229, 84, 115, 0.05);
